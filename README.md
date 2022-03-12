@@ -1,2 +1,3 @@
 # Algorithm
-Record my footprint
+Record my footprint on the path of algorithm
+
