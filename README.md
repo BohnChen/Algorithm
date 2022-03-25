@@ -13,3 +13,5 @@ slowIndex marks the position need to be replace, fastIndex marks the position wi
 # Find Minimum  Sub Array Length 2022-03-24 23:05
 Using Slide window to find it, remember that it is a serias of elements in a row.
 
+# Spiral Matrix 2022-03-25 22:51
+It is important to find the fix conditions in circle.R D L U is the fix conditions here.
