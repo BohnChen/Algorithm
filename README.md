@@ -15,3 +15,6 @@ Using Slide window to find it, remember that it is a serias of elements in a row
 
 # Spiral Matrix 2022-03-25 22:51
 It is important to find the fix conditions in circle.R D L U is the fix conditions here.
+
+# Remove Elements in LinkList 2022-03-26 23:18
+Recycle space is important. Virtual head is useful. if you don not use Virtual head, different handle methods are needed.
