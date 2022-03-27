@@ -18,3 +18,6 @@ It is important to find the fix conditions in circle.R D L U is the fix conditio
 
 # Remove Elements in LinkList 2022-03-26 23:18
 Recycle space is important. Virtual head is useful. if you don not use Virtual head, different handle methods are needed.
+
+# Design Linklist and implement six interfaces. 2022-03-27 22:13
+Use index smartly. You can see "ps:" in the file.
