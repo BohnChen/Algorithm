@@ -21,3 +21,6 @@ Recycle space is important. Virtual head is useful. if you don not use Virtual h
 
 # Design Linklist and implement six interfaces. 2022-03-27 22:13
 Use index smartly. You can see "ps:" in the file.
+
+# Remove Nth element from end 2022-03-28 18:04
+You can find (length - n + 1)th element or use slow and fast pointers to find the pre-Node of the target.
