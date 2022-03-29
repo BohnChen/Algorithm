@@ -25,5 +25,5 @@ Use index smartly. You can see "ps:" in the file.
 # Remove Nth element from end 2022-03-28 18:04
 You can find (length - n + 1)th element or use slow and fast pointers to find the pre-Node of the target.
 
-# Detect Cycle
+# Detect Cycle 2022-03-29 22:18
 Review short circuit, and use it avoid errors. Three problems you should understand,one is that fast pointer and slow pointer must meet if there is a cycle, another is that fast pointer must catch up with slow one in one cycle in the cycle, the last one is that (Head ~ EntryPos) equals with (MeetPos ~ Entry).
