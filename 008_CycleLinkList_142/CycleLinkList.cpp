@@ -32,6 +32,7 @@ class Solution {
 		// Using slow and fast pointers to find cycle
 		ListNode* pSlow = head;
 		ListNode* pFast = head;
+		// in a NO cycle LinkList,if we judge pSlow first and then judge pFast->next, and it may cause ERROR because *NULL!!!
 		// Using short circuit to avoid error.
 		// pSlow is slower than pFast
 		while(pFast != nullptr && pFast->next != nullptr) {
