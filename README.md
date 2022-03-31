@@ -30,3 +30,6 @@ Review short circuit, and use it avoid errors. Three problems you should underst
 
 # Valid Anagram 2022-03-30 18:16
 bitmap. it is an easy problem. You can improve your program to operate on one array.
+
+# InterSection 2022-03-31 23:00
+set and multiset use RB-tree, unordered_set use hash.Exercise using methods.
