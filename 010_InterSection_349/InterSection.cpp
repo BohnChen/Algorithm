@@ -18,6 +18,7 @@ public:
 		// unordered_set<int> s(nums1.begin(), nums1.end());
 		unordered_set<int> result_set;
 		for(auto itemp : nums2) {
+			// Iterator to an element with key equivalent to key. If no such element is found, past-the-end (see end()) iterator is returned.
 			if(s.find(itemp) != s.end())
 				result_set.insert(itemp);
 		}
