@@ -39,3 +39,6 @@ A comparision for different method using different data structure.
 
 # fourSum II 2022-04-02 22:22
 It is important to rule the meaning of key and value 
+
+# threeSum 2022-04-03 21:37
+It is very important to change direction immediatelly.
