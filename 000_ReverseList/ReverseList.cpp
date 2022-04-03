@@ -29,10 +29,14 @@ class Solution {
 LinkNode* Solution::ReverseList(LinkNode* pHead)
 {
 	LinkList pCur = pHead;
+	// pPre is nullptr firstly.
 	LinkList pPre = nullptr;
 	while (pCur) {
+		// Reserve the Next joint firstly.
 		LinkList pNext = pCur->next;
+		// Reverse it
 		pCur->next = pPre;
+		// Update pCur and pPre
 		pPre = pCur;
 		pCur = pNext;
 	}
