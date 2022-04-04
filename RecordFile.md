@@ -42,3 +42,6 @@ It is important to rule the meaning of key and value
 
 # threeSum 2022-04-03 21:37
 It is very important to change direction immediatelly.
+
+# fourSum 2022-04-04 22:58
+It is the problem  mainly about data length.
