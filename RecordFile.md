@@ -48,3 +48,6 @@ It is the problem  mainly about data length.
 
 # reverse String 2022-04-05 21:58
 You can code some wheels sometimes.
+
+# reverse String II 2022-04-06 21:40
+Using a for statement smartly.2k is the scope of a circle.
