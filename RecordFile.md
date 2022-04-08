@@ -54,3 +54,6 @@ Using a for statement smartly.2k is the scope of a circle.
 
 # reverse words 2022-04-07 23:05
 Spend a lot time here and mainly spending on removing extra blanks.
+
+# strStr 2022-04-08 23:41
+KMP.
