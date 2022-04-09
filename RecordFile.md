@@ -57,3 +57,6 @@ Spend a lot time here and mainly spending on removing extra blanks.
 
 # strStr 2022-04-08 23:41
 KMP.
+
+# repeatedSubStringPattern 2022-04-09 22:38
+next array 
