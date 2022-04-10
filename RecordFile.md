@@ -60,3 +60,6 @@ KMP.
 
 # repeatedSubStringPattern 2022-04-09 22:38
 next array 
+
+# MyQueue 2022-04-10 22:26
+Use interface more proficient.
