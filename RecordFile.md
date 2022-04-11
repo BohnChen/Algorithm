@@ -63,3 +63,10 @@ next array
 
 # MyQueue 2022-04-10 22:26
 Use interface more proficient.
+
+# MyStack 2022-04-11 17:40
+create a stack with two queues.
+
+
+# isValid 2022-04-11 19:00
+Use stack to slove sysmatric matching problems.
