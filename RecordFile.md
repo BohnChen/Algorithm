@@ -73,3 +73,6 @@ Use stack to slove sysmatric matching problems.
 
 # evalRPN 2022-04-12 22:06
 stack.
+
+# maxSlideWindow 2022-04-13 21:02
+Use a customized queue to improve a O(k****n) program.
