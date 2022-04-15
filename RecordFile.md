@@ -79,3 +79,6 @@ Use a customized queue to improve a O(k****n) program.
 
 # top k frequence 2022-04-14 20:08
 needed to be reviewed.
+
+# trap 2022-04-15 22:07
+The end of chapter 7.
