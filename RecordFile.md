@@ -82,3 +82,6 @@ needed to be reviewed.
 
 # trap 2022-04-15 22:07
 The end of chapter 7.
+
+# preOrderOfATree 2022-04-16 22:04
+the preOrderOfATree.
