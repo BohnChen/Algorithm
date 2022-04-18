@@ -88,3 +88,6 @@ the preOrderOfATree.
 
 # inOrderTravleSal 2022-04-17 19:02
 the inOrderTravleSal.
+
+# postOrderTravelSal 2022-04-18 18:56
+Use a stack to impliment it. 
