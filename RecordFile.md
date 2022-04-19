@@ -91,3 +91,6 @@ the inOrderTravleSal.
 
 # postOrderTravelSal 2022-04-18 18:56
 Use a stack to impliment it. 
+
+# levelOrderTravle 2022-04-19 23:12
+Implement it with queue.
