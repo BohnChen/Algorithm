@@ -94,3 +94,6 @@ Use a stack to impliment it.
 
 # levelOrderTravle 2022-04-19 23:12
 Implement it with queue.
+
+# invert Tree 2022-04-20 18:08
+Exercise it.
