@@ -103,3 +103,6 @@ Recurve and iterative
 
 # maxTreeDepth 2022-04-22 20:08
 recurve and iterative.
+
+# minTreeDepth 2022-04-22 22:34
+recurve and iterative. recurve method is something different from that in maxTreeDepth.
