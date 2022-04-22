@@ -100,3 +100,6 @@ Exercise it.
 
 # isSymmetric 2022-04-21 23:24
 Recurve and iterative
+
+# maxTreeDepth 2022-04-22 20:08
+recurve and iterative.
