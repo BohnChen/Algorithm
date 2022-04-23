@@ -106,3 +106,6 @@ recurve and iterative.
 
 # minTreeDepth 2022-04-22 22:34
 recurve and iterative. recurve method is something different from that in maxTreeDepth.
+
+# is Balanced tree 2022-04-23 23:18
+You can do this work in the morning dear. Here you meet the backforth first time, you should review them tomorrow.
