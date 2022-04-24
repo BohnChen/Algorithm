@@ -109,3 +109,6 @@ recurve and iterative. recurve method is something different from that in maxTre
 
 # is Balanced tree 2022-04-23 23:18
 You can do this work in the morning dear. Here you meet the backforth first time, you should review them tomorrow.
+
+# all paths in a binary tree. 2022-04-24 23:16
+The show of backforth, it is a sophisticated thought.
