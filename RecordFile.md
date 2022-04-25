@@ -112,3 +112,6 @@ You can do this work in the morning dear. Here you meet the backforth first time
 
 # all paths in a binary tree. 2022-04-24 23:16
 The show of backforth, it is a sophisticated thought.
+
+# has path Sum  2022-04-25 22:12
+Iterative and recurve method.
