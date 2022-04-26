@@ -115,3 +115,6 @@ The show of backforth, it is a sophisticated thought.
 
 # has path Sum  2022-04-25 22:12
 Iterative and recurve method.
+
+# pathSum 2022-04-26 18:29
+Output all path that meet the sum of the target of the tree.
