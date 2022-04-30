@@ -128,3 +128,6 @@ The same as last one, it is that how to separite the treevecs matters.
 
 # mergeTree 2022-04-29 22:46
 Improve the printTree. Nice job.
+
+# searchBST 2022-04-30 21:34
+The parameter passed like a new value. It is a local value, When the function completed, the value is dertroied.
