@@ -131,3 +131,6 @@ Improve the printTree. Nice job.
 
 # searchBST 2022-04-30 21:34
 The parameter passed like a new value. It is a local value, When the function completed, the value is dertroied.
+
+# isValidBST 2022-05-01 20:45
+It is ordered that the InOrder Traversal of the BST is useful thought here.
