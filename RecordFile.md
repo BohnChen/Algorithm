@@ -134,3 +134,6 @@ The parameter passed like a new value. It is a local value, When the function co
 
 # isValidBST 2022-05-01 20:45
 It is ordered that the InOrder Traversal of the BST is useful thought here.
+
+# getMinimumDifference 2022-05-02 22:39
+Get the minimum value through recorde the previous node is the best one. You still need some time to get the iterative method.
