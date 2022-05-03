@@ -137,3 +137,6 @@ It is ordered that the InOrder Traversal of the BST is useful thought here.
 
 # getMinimumDifference 2022-05-02 22:39
 Get the minimum value through recorde the previous node is the best one. You still need some time to get the iterative method.
+
+# findMode 2022-05-03 12:25
+You can write a lead article to make sure you get it.
