@@ -140,3 +140,6 @@ Get the minimum value through recorde the previous node is the best one. You sti
 
 # findMode 2022-05-03 12:25
 You can write a lead article to make sure you get it.
+
+# lowestCOmmonAncestor 2022-05-04 22:33
+Not so easy one.
