@@ -143,3 +143,6 @@ You can write a lead article to make sure you get it.
 
 # lowestCOmmonAncestor 2022-05-04 22:33
 Not so easy one.
+
+# lowestCOmmonAncestor BST 2022-05-05 21:40
+a clear thought.
