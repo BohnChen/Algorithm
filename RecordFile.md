@@ -146,3 +146,6 @@ Not so easy one.
 
 # lowestCOmmonAncestor BST 2022-05-05 21:40
 a clear thought.
+
+# insertIntoBST 2022-05-06 23:28
+A recursive method and an iterative one. 
