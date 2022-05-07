@@ -149,3 +149,6 @@ a clear thought.
 
 # insertIntoBST 2022-05-06 23:28
 A recursive method and an iterative one. 
+
+# delete Node in BST 2022-05-07 21:03
+You should review it 
