@@ -152,3 +152,6 @@ A recursive method and an iterative one.
 
 # delete Node in BST 2022-05-07 21:03
 You should review it 
+
+# trimBST 2022-05-08 22:32
+delete the node out of given range.
