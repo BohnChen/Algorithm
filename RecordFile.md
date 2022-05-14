@@ -167,3 +167,6 @@ Get a little more about backtrack.
 
 # combinationSum 2022-05-13 22:04
 Get the backtrack more, Apply yourself.
+
+# combinationSum2 2022-05-14 23:56
+Keep the result unrepeatable using vector<bool> type.
