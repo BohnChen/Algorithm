@@ -170,3 +170,8 @@ Get the backtrack more, Apply yourself.
 
 # combinationSum2 2022-05-14 23:56
 Keep the result unrepeatable using vector<bool> type.
+
+# partition 2022-05-15 23:16
+You needed to review it. It also can use the backtracking mode.
+
+
