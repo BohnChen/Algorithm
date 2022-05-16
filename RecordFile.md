@@ -174,4 +174,7 @@ Keep the result unrepeatable using vector<bool> type.
 # partition 2022-05-15 23:16
 You needed to review it. It also can use the backtracking mode.
 
+# restore IP Adresses 2022-05-16 23:39
+It is more like a logic problem, and it Use backtracking to slove it.
+
 
