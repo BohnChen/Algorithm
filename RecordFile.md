@@ -177,4 +177,7 @@ You needed to review it. It also can use the backtracking mode.
 # restore IP Adresses 2022-05-16 23:39
 It is more like a logic problem, and it Use backtracking to slove it.
 
+# subSet 2022-05-17 23:01
+A sub set exercise.
+
 
