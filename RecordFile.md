@@ -180,4 +180,7 @@ It is more like a logic problem, and it Use backtracking to slove it.
 # subSet 2022-05-17 23:01
 A sub set exercise.
 
+# sub set with duplicated values 2022-05-18 22:18
+
+
 
