@@ -181,6 +181,10 @@ It is more like a logic problem, and it Use backtracking to slove it.
 A sub set exercise.
 
 # sub set with duplicated values 2022-05-18 22:18
+Yes.
+
+# findSubSequences 2022-05-19 22:29
+a new trick to remove the duplicated one vertically.
 
 
 
