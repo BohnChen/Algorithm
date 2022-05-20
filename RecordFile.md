@@ -186,5 +186,8 @@ Yes.
 # findSubSequences 2022-05-19 22:29
 a new trick to remove the duplicated one vertically.
 
+# permute 2022-05-20 22:57
+The first permute problem.
+
 
 
