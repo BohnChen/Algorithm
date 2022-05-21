@@ -189,5 +189,8 @@ a new trick to remove the duplicated one vertically.
 # permute 2022-05-20 22:57
 The first permute problem.
 
+# permute Unique 2022-05-21 21:53
+use an vector named used to keep unique result vertically or horizontally.
+
 
 
