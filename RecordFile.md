@@ -192,5 +192,8 @@ The first permute problem.
 # permute Unique 2022-05-21 21:53
 use an vector named used to keep unique result vertically or horizontally.
 
+# NQueues 2022-05-22 21:38
+Using backtracking to slove N Queues problems.
+
 
 
