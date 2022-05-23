@@ -195,5 +195,8 @@ use an vector named used to keep unique result vertically or horizontally.
 # NQueues 2022-05-22 21:38
 Using backtracking to slove N Queues problems.
 
+# sloveSudoku 2022-05-23 23:17
+A difficult problems.
+
 
 
