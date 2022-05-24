@@ -198,5 +198,8 @@ Using backtracking to slove N Queues problems.
 # sloveSudoku 2022-05-23 23:17
 A difficult problems.
 
+# findContentChirdren 2022-05-24 22:10
+Greedy algorithm exercise.
+
 
 
