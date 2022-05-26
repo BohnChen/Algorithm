@@ -204,5 +204,8 @@ Greedy algorithm exercise.
 # wiggleMaxLength 2022-05-25 21:44
 The point is transformation thought.
 
+# maxSubArray 2022-05-26 22:38
+Nice.Find the max one in the elements we scaned.
+
 
 
