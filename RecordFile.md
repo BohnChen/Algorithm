@@ -207,5 +207,8 @@ The point is transformation thought.
 # maxSubArray 2022-05-26 22:38
 Nice.Find the max one in the elements we scaned.
 
+# maxProfit 2022-05-27 22:51
+Amazing! It is a good transformation thought example.
+
 
 
