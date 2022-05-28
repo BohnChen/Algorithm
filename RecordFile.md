@@ -210,5 +210,8 @@ Nice.Find the max one in the elements we scaned.
 # maxProfit 2022-05-27 22:51
 Amazing! It is a good transformation thought example.
 
+# can Jump 2022-05-28 22:17
+The point is we update the max index we can get every time.
+
 
 
