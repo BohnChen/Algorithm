@@ -213,5 +213,8 @@ Amazing! It is a good transformation thought example.
 # can Jump 2022-05-28 22:17
 The point is we update the max index we can get every time.
 
+# Jump 2022-05-29 22:15
+second version of yesterday's problem.
+
 
 
