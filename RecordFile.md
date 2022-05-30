@@ -216,5 +216,9 @@ The point is we update the max index we can get every time.
 # Jump 2022-05-29 22:15
 second version of yesterday's problem.
 
+# canCompleteCircle 2022-05-30 23:02
+Today is too late to comprehend it. So you need to review it.
+
+
 
 
