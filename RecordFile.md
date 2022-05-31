@@ -219,6 +219,9 @@ second version of yesterday's problem.
 # canCompleteCircle 2022-05-30 23:02
 Today is too late to comprehend it. So you need to review it.
 
+# candy 2022-05-31 22:50
+You need to review it, too.
+
 
 
 
