@@ -222,6 +222,9 @@ Today is too late to comprehend it. So you need to review it.
 # candy 2022-05-31 22:50
 You need to review it, too.
 
+# lemonadechange 2022-06-01 22:10
+When get a 20. give a 10 and a 5 is recommanded choice. Because 5 is more useful.
+
 
 
 
