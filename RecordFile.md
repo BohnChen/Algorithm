@@ -228,6 +228,10 @@ When get a 20. give a 10 and a 5 is recommanded choice. Because 5 is more useful
 # findminarrowshots 2022-06-02 22:13
 Sort the points and find the lowest bordern in our demanding range.
 
+# merge 2022-06-03 09:19
++ TODO: review. <03-06-22, Bohn Chen> +
++ Lambda
+
 
 
 
