@@ -235,6 +235,9 @@ Sort the points and find the lowest bordern in our demanding range.
 # monotoneincreasingdigits 2022-06-04 19:00
 + TODO: review  <04-06-22, Bohn Chen> +
 
+# fib 2022-06-05 22:09
+It is a important method to slove a type of problems.It is important to comprehend the meaning of dp array.
+
 
 
 
