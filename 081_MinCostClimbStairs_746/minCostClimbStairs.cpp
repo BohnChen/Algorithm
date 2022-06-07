@@ -1,6 +1,6 @@
 /**
- * leetcode : 760
- * Descrip	 : none
+ * leetcode : 746
+ * Descrip	: none
  * Paragra  : Bohn Chen 2022-06-07 21:56
  */
 #include <algorithm>
