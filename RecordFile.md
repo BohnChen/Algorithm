@@ -241,6 +241,9 @@ It is a important method to slove a type of problems.It is important to comprehe
 # climb Stairs 2022-06-06 22:31
 nice pro.
 
+# Min Cost Climb stairs 2022-06-07 22:10
+We can enduce the result on the before result.
+
 
 
 
