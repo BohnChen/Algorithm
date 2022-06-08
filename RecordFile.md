@@ -244,6 +244,9 @@ nice pro.
 # Min Cost Climb stairs 2022-06-07 22:10
 We can enduce the result on the before result.
 
+# Unique pathes 2022-06-08 22:35
+There are three solutions. But I comprehend thedynamic programming one only temporarily.
+
 
 
 
