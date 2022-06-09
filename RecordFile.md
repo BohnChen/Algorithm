@@ -247,6 +247,9 @@ We can enduce the result on the before result.
 # Unique pathes 2022-06-08 22:35
 There are three solutions. But I comprehend thedynamic programming one only temporarily.
 
+# Unique paths with obstacles 2022-06-09 23:18
+dp[obstacles] is 0, and stop assign 0 to dp[i][0] or dp[0][i] when we meet obstacles.
+
 
 
 
