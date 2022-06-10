@@ -250,6 +250,9 @@ There are three solutions. But I comprehend thedynamic programming one only temp
 # Unique paths with obstacles 2022-06-09 23:18
 dp[obstacles] is 0, and stop assign 0 to dp[i][0] or dp[0][i] when we meet obstacles.
 
+# integer break 2022-06-10 22:34
+You need to review it.
+
 
 
 
