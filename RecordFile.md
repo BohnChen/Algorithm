@@ -253,6 +253,9 @@ dp[obstacles] is 0, and stop assign 0 to dp[i][0] or dp[0][i] when we meet obsta
 # integer break 2022-06-10 22:34
 You need to review it.
 
+# num Tree 2022-06-11 22:06
+Need review it. 
+
 
 
 
