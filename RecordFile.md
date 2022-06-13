@@ -272,3 +272,6 @@ Need review it.
 # 背包理论 2022-06-12 21:54 
 暂时没有理解，明天接着理解。
 
+# can partition 2022-06-13 22:32
+The first exercise of bag issue.
+
