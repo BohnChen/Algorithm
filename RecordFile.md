@@ -275,3 +275,6 @@ Need review it.
 # can partition 2022-06-13 22:32
 The first exercise of bag issue.
 
+# findTargetSumways 2022-06-14 23:54
+hard!
+
